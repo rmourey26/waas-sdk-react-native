@@ -1,0 +1,17 @@
+{
+   "name": "organizations/3a91563a-ccd4-4f43-a997-7ff689fd05e3/apiKeys/8703dded-eccf-455b-8eed-4dd682a21004",
+   "principal": "e5e61969-a806-5a1d-b2f5-0a9c51726db0",
+   "principalType": "USER",
+   "publicKey": "-----BEGIN EC PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEa+lN7UEhH/XfC4sJjYexnsR1qsBX\nSk4LjfFATtgi1rYpnsfSCrwYmMSe5kSMxjrCj5KsbFl3Qmne1dU9sD0ODw==\n-----END EC PUBLIC KEY-----\n",
+   "privateKey": "-----BEGIN EC PRIVATE KEY-----\nMHcCAQEEIHZAZE5dFScWQf8TTp+KBvzVk39sJ701YQxz1/RPGInVoAoGCCqGSM49\nAwEHoUQDQgAEa+lN7UEhH/XfC4sJjYexnsR1qsBXSk4LjfFATtgi1rYpnsfSCrwY\nmMSe5kSMxjrCj5KsbFl3Qmne1dU9sD0ODw==\n-----END EC PRIVATE KEY-----\n",
+   "createTime": "2024-03-31T22:56:05.518445964Z",
+   "projectId": "6690e632-2abc-44fc-9dd3-a56005e1e2d3",
+   "nickname": "quantumonedao-key-20240331225601091Z",
+   "scopes": [],
+   "allowedIps": [],
+   "keyType": "GENERAL_KEY",
+   "enabled": true,
+   "legacyScopes": [],
+   "createdByUserId": "e5e61969-a806-5a1d-b2f5-0a9c51726db0",
+   "createdByUserMongoId": "65e64f36135904090876aa5e"
+}
